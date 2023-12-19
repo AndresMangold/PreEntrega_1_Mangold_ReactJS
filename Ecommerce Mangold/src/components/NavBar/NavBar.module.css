@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-right: 5rem;
+    margin-right: 2rem;
   }
   
   .logo {
@@ -18,7 +18,7 @@
   }
   
   .title {
-    font-size: 80px;
+    font-size: 85px;
     margin: 0;
     color: aliceblue;
   }
@@ -31,7 +31,7 @@
   .buttonContainer {
     display: flex;
     justify-content: space-around;
-    width: 35%;
+    width: 30%;
   }
   
   .navbarFixed {

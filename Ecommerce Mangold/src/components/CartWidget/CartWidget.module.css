@@ -1,0 +1,25 @@
+.cart-widget-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .cart-image {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .text-container {
+    margin-left: 10px;
+  }
+  
+  .text-container span {
+    font-size: 24px;
+    color: aliceblue;
+  }
+  
+  .text-container div {
+    font-size: 36px;
+    font-weight: bold;
+    color: aliceblue;
+  }
+  

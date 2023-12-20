@@ -1,4 +1,3 @@
-// NavBar.jsx
 import React from 'react';
 import CartWidget from '../CartWidget/CartWidget';
 import styles from './navbar.module.css';

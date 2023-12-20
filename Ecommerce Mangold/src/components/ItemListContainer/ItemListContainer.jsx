@@ -1,9 +1,12 @@
-const ItemListContainer = ({ greeting }) => {
-    return (
-        <div>
-            <h1>{greeting}</h1>
-        </div>
-    )
-}
+import React from 'react';
+import styles from './ItemListContainer.module.css';
 
-export default ItemListContainer
+const ItemListContainer = ({ greeting }) => {
+  return (
+    <div>
+      <h1 className={styles.mensaje}>{greeting}</h1>
+    </div>
+  );
+};
+
+export default ItemListContainer;

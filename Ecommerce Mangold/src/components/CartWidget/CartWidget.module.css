@@ -15,11 +15,13 @@
   .text-container span {
     font-size: 20px;
     color: aliceblue;
+    font-family: 'Tilt Prism';
   }
   
   .text-container div {
     font-size: 30px;
     font-weight: bold;
     color: aliceblue;
+    font-family: 'Tilt Prism';
   }
   

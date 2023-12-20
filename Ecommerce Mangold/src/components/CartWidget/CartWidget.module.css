@@ -4,8 +4,8 @@
   }
   
   .cart-image {
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
   }
   
   .text-container {
@@ -13,12 +13,12 @@
   }
   
   .text-container span {
-    font-size: 24px;
+    font-size: 20px;
     color: aliceblue;
   }
   
   .text-container div {
-    font-size: 36px;
+    font-size: 30px;
     font-weight: bold;
     color: aliceblue;
   }

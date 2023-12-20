@@ -14,11 +14,11 @@ const NavBar = () => {
 
       <div className={styles.buttonWrapper}>
         <div className={styles.buttonContainer}>
-          <button>Inicio</button>
-          <button>Galeria</button>
-          <button>Autor</button>
-          <button>Influencias</button>
-          <button>Contacto</button>
+          <button className="btn btn-dark rounded-pill">Inicio</button>
+          <button className="btn btn-dark rounded-pill">Galeria</button>
+          <button className="btn btn-dark rounded-pill">Autor</button>
+          <button className="btn btn-dark rounded-pill">Influencias</button>
+          <button className="btn btn-dark rounded-pill">Contacto</button>
         </div>
       </div>
     </nav>
